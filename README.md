@@ -1,11 +1,13 @@
 ![Business Analyst](https://github.com/udbhavtewari/udbhavtewari/blob/main/GitHub%20Banner.png)
-### Hi there 👋, I'm Udbhav Tewari
-#### Business Analyst
-I have a strong interest in descriptive & predictive analytics to solve business problems. I work on projects related to sports as well so most of my work is around those subjects. 
+## Hi there 👋, I'm Udbhav Tewari
+### I'm currently working in Compliance - Ops at Amazon. 
 
-Skills: Python | R | SQL | Tableau | Google Data Studio | Excel 
+I love playing around with Data with my analytical skills to build side projects around business problems, sports and anything which seems intriguing to me. I love the intersection of Business + Tech since it gives me the right amount of challenge yet growth. Active on Twitter & LinkedIn.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/udbhavtewari/)           [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/UdbhavTewari) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='linkedin' height='40'>](udbhavtewari03@gmail.com)  
+
+Skills: Python | SQL | Tableau | Excel 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/udbhavtewari/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/UdbhavTewari) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='linkedin' height='40'>](udbhavtewari03@gmail.com)  
 
 
 
