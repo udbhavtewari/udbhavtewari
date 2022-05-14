@@ -1,7 +1,7 @@
 ![Business Analyst](https://github.com/udbhavtewari/udbhavtewari/blob/main/GitHub%20Banner.png)
 ## Hi there 👋, I'm Udbhav Tewari
 
-I love playing around with Data with my analytical skills to build side projects around business problems, sports and anything which seems intriguing to me. I love the intersection of Business + Tech since it gives me the right amount of challenge yet growth. Active on Twitter & LinkedIn.
+I love playing around with data with my analytical skills to build side projects around business problems, sports and anything which seems intriguing to me. I love the intersection of Business + Tech since it gives me the right amount of challenge yet growth.
 
 
 Skills: Python | SQL | Tableau | Excel 
